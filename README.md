@@ -8,3 +8,7 @@
 * Evaluate TechCorp's readiness for IAM implementation.
 * Craft customised IAM solutions for TechCorp, aligning them with its business processes and objectives to enhance security.
 * Plan a comprehensive project for implementing an IAM platform at TechCorp, addressing integration challenges and ensuring secure access to digital resources.
+
+
+# Primary Responsibility 
+IAM is all about managing digital identities and controlling access to resources and is a cornerstone of modern cybersecurity. With cyber threats constantly evolving, a robust IAM strategy is essential to safeguarding an organisation's digital assets and sensitive data.
