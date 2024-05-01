@@ -34,6 +34,13 @@ IAM aspect of cybersecurity    <br/>
 <br />
 
 
+<p align="center">
+Modern Enterprise    <br/>
+ <img src="https://imgur.com/e4GGe5g.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
 
 
 
