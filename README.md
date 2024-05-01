@@ -27,6 +27,18 @@ What do IAM Developers do???   <br/>
 <br />
 <br />
 
+<p align="center">
+IAM aspect of cybersecurity    <br/>
+ <img src="https://imgur.com/1b8rN6Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
+
+
+
+
+
 
 
 
