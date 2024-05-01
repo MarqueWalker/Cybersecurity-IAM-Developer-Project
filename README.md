@@ -58,7 +58,15 @@ As enterprises embrace digital transformation and rely on cloud services, mobile
 IAM is not just a technical aspect of cybersecurity; it's a strategic imperative for modern enterprises. It enhances security, streamlines access management, and empowers organisations to navigate the digital age confidently. In the following tasks, we'll apply these key concepts to practical scenarios.
 
 
+# CASE STUDY
 
+<p align="center">
+DATA BREACH SAMPLE    <br/>
+ <img src="https://imgur.com/mD8FnBy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
-
+# TASK 2
+How to evaluate an enterprise's IAM strategy
+Considerations for implementing IAM in different organisational contexts
 
