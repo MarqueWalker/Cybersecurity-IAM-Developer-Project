@@ -55,7 +55,7 @@ As enterprises embrace digital transformation and rely on cloud services, mobile
 
 
 
-
+IAM is not just a technical aspect of cybersecurity; it's a strategic imperative for modern enterprises. It enhances security, streamlines access management, and empowers organisations to navigate the digital age confidently. In the following tasks, we'll apply these key concepts to practical scenarios.
 
 
 
