@@ -70,3 +70,16 @@ DATA BREACH SAMPLE    <br/>
 How to evaluate an enterprise's IAM strategy
 Considerations for implementing IAM in different organisational contexts
 
+* Assess hypothetical enterprise scenarios to determine their readiness for IAM
+* Develop a checklist for evaluating IAM strategy and readiness
+
+# Sample Company Reading 
+
+<p align="center">
+Implementation Intro     <br/>
+ <img src="https://imgur.com/N5nxd37.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
+
