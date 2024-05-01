@@ -84,7 +84,7 @@ Implementation Intro     <br/>
 
 
 <p align="center">
-Implementation Intro     <br/>
+     <br/>
  <img src="https://imgur.com/ho4jrn5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -93,5 +93,21 @@ Implementation Intro     <br/>
 # IAM strategy tailoring
 
 * TechCorp Enterprises operates in a unique organisational context, and as part of your IAM assessment, you must evaluate various factors that influence IAM implementation. Here are some key considerations:
+
+<p align="center">
+Strategy Tailoring    <br/>
+ <img src="https://imgur.com/q7ZQuKE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+# TechCorp briefing
+
+<p align="center">
+Greetings     <br/>
+ <img src="https://imgur.com/IeLPLKX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+  
 
 
