@@ -89,3 +89,9 @@ Implementation Intro     <br/>
 <br />
 <br />
 
+
+# IAM strategy tailoring
+
+* TechCorp Enterprises operates in a unique organisational context, and as part of your IAM assessment, you must evaluate various factors that influence IAM implementation. Here are some key considerations:
+
+
