@@ -109,7 +109,7 @@ Greetings     <br/>
 <br />
 
 
-
+# IAM strategy focus areas
 * User lifecycle management
 * Access control mechanisms
 * Compliance and governance
@@ -118,3 +118,37 @@ Greetings     <br/>
 * Enhanced user experience
 
 
+
+
+<p align="center">
+Assessing IAM Readiness      <br/>
+ <img src="https://imgur.com/B6eUmJI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+
+ # Comprehensive Checklist for Evaluating TechCorp's IAM Strategy and Readiness:
+
+
+<p align="center">
+MY ANSWER PART 1     <br/>
+ <img src="https://imgur.com/4azHROW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+<p align="center">
+MY ANSWERS PART 2    <br/>
+ <img src="https://imgur.com/RA4JRN6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
+This checklist aims to provide a structured approach to evaluating TechCorp's IAM strategy and readiness, addressing the key focus areas outlined in your briefing. I will commence the assessment process and keep you updated on our progress.
+Please let me know if you have any questions or require further clarification.
+
+Best regards,
+Marque Walker
+
+
+
+
+ 
