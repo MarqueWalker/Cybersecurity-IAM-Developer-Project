@@ -12,3 +12,11 @@
 
 # Primary Responsibility 
 IAM is all about managing digital identities and controlling access to resources and is a cornerstone of modern cybersecurity. With cyber threats constantly evolving, a robust IAM strategy is essential to safeguarding an organisation's digital assets and sensitive data.
+
+
+
+<p align="center">
+IAM Services   <br/>
+ <img src="https://imgur.com/IitbLaS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
